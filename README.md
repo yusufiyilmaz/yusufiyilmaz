@@ -27,6 +27,7 @@ Bilişim Güvenliği Teknolojisi öğrencisiyim; siber güvenlikte **savunma (bl
 
 ## İletişim
 
+- E-posta: yuusufyilmaz@outlook.com
 - GitHub: [@yusufiyilmaz](https://github.com/yusufiyilmaz)
 
 ---

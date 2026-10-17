@@ -1,15 +1,34 @@
-# Merhaba, ben Yusuf 👋
+<div align="center">
 
-Siber güvenlik öğrencisiyim. Saldırıların arkasında ne olduğunu merak ediyorum: bir açığı bulmak da, bir saldırının logda nasıl göründüğünü anlayıp fark etmek de ilgimi çekiyor.
+# Yusuf Yılmaz
 
-Bir şeyi anlamak için kendi ellerimle denemeyi seviyorum. Kendi kurduğum izole lab'da denediklerimi buradaki projelere dönüştürüyorum.
+**Cybersecurity Student · Offensive & Defensive Security · Web Security**
 
-## Projeler
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yyusufyilmazz)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:yuusufyilmaz@outlook.com)
 
-- **[auth-log-analyzer](https://github.com/yusufiyilmaz/auth-log-analyzer)** · Linux loglarında SSH saldırılarını tespit eden Python aracı
-- **[web-guvenlik-lab](https://github.com/yusufiyilmaz/web-guvenlik-lab)** · Yaygın web açıkları ve düzeltmeleri, testlerle
-- **[home-lab](https://github.com/yusufiyilmaz/home-lab)** · İzole sanal lab ve tespit senaryoları
+</div>
 
-## İletişim
+## About
 
-[LinkedIn](https://www.linkedin.com/in/yyusufyilmazz) · yuusufyilmaz@outlook.com
+I got into cybersecurity by wondering what happens behind an attack. Finding a vulnerability and spotting how an attack shows up in the logs interest me equally, and web security is where both sides meet.
+
+I learn by doing: I run my own isolated lab, try things there, and turn what I learn into the projects below.
+
+## Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [auth-log-analyzer](https://github.com/yusufiyilmaz/auth-log-analyzer) | Detects SSH brute force and account takeover in Linux auth logs, maps findings to MITRE ATT&CK, ships Sigma rules | Python |
+| [web-guvenlik-lab](https://github.com/yusufiyilmaz/web-guvenlik-lab) | A notes app built twice: with seven common web vulnerabilities and with every one fixed, proven by tests | Python · Flask |
+| [home-lab](https://github.com/yusufiyilmaz/home-lab) | Isolated virtual lab with documented attack → log → detection scenarios | VirtualBox · Linux |
+
+## Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)

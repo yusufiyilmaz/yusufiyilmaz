@@ -21,11 +21,13 @@ I learn by doing: I run my own isolated lab, try things there, and turn what I l
 |---|---|---|
 | [auth-log-analyzer](https://github.com/yusufiyilmaz/auth-log-analyzer) | Detects SSH brute force and account takeover in Linux auth logs, maps findings to MITRE ATT&CK, ships Sigma rules | Python |
 | [web-guvenlik-lab](https://github.com/yusufiyilmaz/web-guvenlik-lab) | A notes app built twice: with seven common web vulnerabilities and with every one fixed, proven by tests | Python · Flask |
+| [signal-x](https://github.com/yusufiyilmaz/signal-x) | Async network security auditor: port scanning, banner grabbing, OS detection and an A–F security grade | Rust |
 | [home-lab](https://github.com/yusufiyilmaz/home-lab) | Isolated virtual lab with documented attack → log → detection scenarios | VirtualBox · Linux |
 
 ## Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)

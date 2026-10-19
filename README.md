@@ -18,12 +18,17 @@ I learn by doing: I run my own isolated lab, try things there, and turn what I l
 
 ## Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [auth-log-analyzer](https://github.com/yusufiyilmaz/auth-log-analyzer) | Detects SSH brute force and account takeover in Linux auth logs, maps findings to MITRE ATT&CK, ships Sigma rules | Python |
-| [web-guvenlik-lab](https://github.com/yusufiyilmaz/web-guvenlik-lab) | A notes app built twice: with seven common web vulnerabilities and with every one fixed, proven by tests | Python · Flask |
-| [signal-x](https://github.com/yusufiyilmaz/signal-x) | Async network security auditor: port scanning, banner grabbing, OS detection and an A–F security grade | Rust |
-| [home-lab](https://github.com/yusufiyilmaz/home-lab) | Isolated virtual lab with documented attack → log → detection scenarios | VirtualBox · Linux |
+**[auth-log-analyzer](https://github.com/yusufiyilmaz/auth-log-analyzer)** · `Python`\
+Detects SSH brute force and account takeover in Linux auth logs, maps findings to MITRE ATT&CK and ships Sigma rules. Tested against real logs from my lab.
+
+**[web-guvenlik-lab](https://github.com/yusufiyilmaz/web-guvenlik-lab)** · `Python` `Flask`\
+A notes app built twice: once with seven common web vulnerabilities, once with every one fixed. Each exploit and fix is proven by a test.
+
+**[signal-x](https://github.com/yusufiyilmaz/signal-x)** · `Rust`\
+Async network security auditor: port scanning, banner grabbing, OS detection and an A–F security grade.
+
+**[home-lab](https://github.com/yusufiyilmaz/home-lab)** · `VirtualBox` `Linux`\
+Isolated virtual lab with documented attack → log → detection scenarios.
 
 ## Tools
 
